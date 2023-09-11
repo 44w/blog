@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "eric // @hillsto35th",
-    image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "High School Student",
-    bio: "Average Cybersecurity Student",
+    bio: "Cybersecurity Student",
     email: "eric@35th.io",
     linkedin: "ejohnson06",
     github: "44w",
@@ -19,8 +19,8 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "eric // 35th.io ",
-    description: "welcome to my blog ^__^",
-    theme: "dark", // ['light', 'dark', 'auto']
+    description: "learn more about me",
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
